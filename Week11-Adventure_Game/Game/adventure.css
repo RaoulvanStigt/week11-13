@@ -1,0 +1,209 @@
+body {
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	font-family: impact;
+	color: crimson;
+	width: 500px;
+	margin-left: 525px;
+}
+
+button {
+	padding: 10px 30px;
+	background-color: crimson;
+	border-color: black;
+	font-family: impact;
+}
+
+#description {
+	color: black;
+	font-family: arial;
+}
+
+#title {
+	margin-bottom: 10px;
+}
+
+#game-container{
+	width: 500px;
+}
+
+#inventoryItem{
+	position: absolute;
+	top: 800px;
+    right: 0;
+}
+
+#inventoryWeapon{
+	position: absolute;
+	top: 200px;
+    right: 700px;
+    height: 500px;
+}
+
+#inventoryPistol{
+	position: absolute;
+	top: 650px;
+    right: 900px;
+}
+
+#deur{
+	position: absolute;
+	top: 220px;
+	right: 635px;
+	height: 180px;
+}
+
+#bank{
+	position: absolute;
+	top: 475px;
+	right: 750px;
+	height: 102px;
+	width: 263px;
+}
+
+#stoelen{
+	position: absolute;
+	top: 325px;
+	right: 565px;
+	height: 265px;
+	width: 146px;
+}
+
+#ton{
+	position: absolute;
+	top: 475px;
+	right: 685px;
+	height: 100px; 
+	width: 113px;
+}
+
+
+
+a {
+	color: red;
+}
+
+
+.container-level0{
+	background-image: url("images/gevangenis.jpg");
+}
+
+.container-level1{
+	background-image: url("images/cel.jpg");
+}
+
+.container-level2{
+	background-image: url("images/gevangenis-bewaker.jpg");
+}
+
+.container-level3{
+	background-image: url("images/gang-links-rechts.jpg");
+}
+
+.container-level4{
+	background-image: url("images/gang.jpg");
+}
+
+.container-level5{
+	background-image: url("images/deur-achtergrond.jpg");
+}
+
+.container-level5_2{
+	background-image: url("images/deur-achtergrond1.jpg");
+}
+
+.container-level6{
+	background-image: url("images/buiten.jpg");
+}
+
+.container-level7{
+	background-image: url("images/binnenkant-truck.jpg");
+}
+
+.container-level7_2{
+	background-image: url("images/onder-de-truck.jpg");
+}
+
+.container-level7_3{
+	background-image: url("images/vieze-kleding.jpg");
+}
+
+.container-level8{
+	background-image: url("images/controle.jpg");
+}
+
+.container-level9{
+	background-image: url("images/controle-niks.jpg");
+}
+
+.container-level10{
+	background-image: url("images/END.jpg");
+}
+
+
+
+
+.container-levelhideAchterBank {
+	background-image: url("images/achter-bank.jpg");
+}
+
+.container-levelhideAchterStoelen{
+	background-image: url("images/achter-stoelen.jpg");
+}
+
+.container-levelhideAchterTon{
+	background-image: url("images/achter-ton.jpg");
+}
+
+
+
+
+.container-levelSlaan{
+	background-image: url("images/slaan.jpg");
+}
+
+.container-levelSchoppen{
+background-image: url("images/schoppen.jpg");
+}
+
+
+
+
+
+
+.container-levelDood1{
+	background-image: url("images/cel-opgepakt.jpg");
+}
+
+.container-levelDood2{
+	background-image: url("images/dode-gozer.jpg");
+}
+
+.container-levelDood3{
+	background-image: url("images/BUSTED.jpg");
+}
+
+.container-levelDood4{
+	background-image: url("images/hey-jij-daar.jpg");
+}
+
+.container-levelDood5{
+	background-image: url("images/vieze-kleding-gezien.jpg");
+}
+
+
+
+
+
+.container-levelKey{
+	background-image: url("images/sleutel-slot.jpg");
+}
+
+.container-levelWeapon{
+	background-image: url("images/fight.jpg");
+}
+
+.container-levelPistol{
+	background-image: url("images/endfight.jpg");
+}

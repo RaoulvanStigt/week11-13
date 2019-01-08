@@ -1,0 +1,70 @@
+.container{
+    width: 600px;
+    height: 600px;
+    background-image: url("images/bg0.jpg");
+    border-width: 3px;
+    border-style: solid;
+    border-color: pink;
+}
+
+img[src="images/0.jpg"]{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 460px;
+}
+
+#button1{
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#button2{
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#button3{
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.container0{
+    background-image: url("images/bg0.jpg");
+}
+
+.container1{
+    background-image: url("images/bg0.jpg");
+}
+
+.container2{
+    background-image: url("images/bg0.jpg");
+}
+
+.container3{
+    background-image: url("images/bg0.jpg");
+}
+
